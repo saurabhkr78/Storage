@@ -1,0 +1,23 @@
+{
+  "name": "chess-file-storage",
+  "version": "1.0.0",
+  "description": "A chess-based file storage system that converts files into chess moves",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "http-server -c-1",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chess",
+    "storage",
+    "encryption",
+    "steganography"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+} 
